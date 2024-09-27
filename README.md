@@ -12,8 +12,8 @@ This is a Bash script that performs different types of DNS attacks: DNS Zone Tra
 ### 1. Running the script
 
 ```bash
-chmod +x dnattack.sh
-./dnattack.sh
+chmod +x dnsattack.sh
+./dnsattack.sh
 ```
 
 ### 2. Choosing an attack
